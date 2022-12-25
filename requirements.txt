@@ -1,0 +1,11 @@
+Django==4.1.4
+dj-rest-auth[with_social]==2.2.5
+djangorestframework==3.14.0
+#testing
+pytest-django==4.5.2
+pytest-factoryboy==2.5.1
+pytest-cov==4.0.0
+#postresql
+psycopg2-binary==2.9.5
+#black
+black[d]==22.12.0
