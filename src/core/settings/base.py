@@ -144,4 +144,4 @@ ACCOUNT_ADAPTER = "accounts.adapter.AccountAdapter"
 
 # u should set this url of your verify url address in frontend
 # example: example.com/verify
-FRONTEND_URL_VERIFY = "example.com"
+FRONTEND_VERIFY_URL = "example.com"
